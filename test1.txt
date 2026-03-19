@@ -1,2 +1,0 @@
-petals=6
-petal_color=red
