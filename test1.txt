@@ -1,0 +1,4 @@
+petals=6
+petal_color=red
+stem_length=100
+leaf_size=40
