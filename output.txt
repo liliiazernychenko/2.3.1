@@ -1,0 +1,2 @@
+Bouquet drawn successfully
+Flowers count: 5
