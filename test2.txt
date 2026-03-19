@@ -1,4 +1,0 @@
-petals=10
-petal_color=blue
-stem_length=150
-leaf_size=60
